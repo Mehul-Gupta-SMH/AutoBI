@@ -5,8 +5,8 @@
 **1. Data Acquisition and Processing:**
 
 * Define the format(s)  supported for report data input (e.g., CSV, Excel).
-            - Iteration 1 - CSV (VC to create sample data by 25/04)
-            - Iteration 2 - SQL DB (VC to create DB on his local by 30/04)
+            ** Iteration 1 - CSV (VC to create sample data by 25/04)
+            ** Iteration 2 - SQL DB (VC to create DB on his local by 30/04)
 * Develop logic to parse and clean user uploaded report data.
             - Read csv through python or create DB connection in python
             - Generate EDA report - for data validation only
